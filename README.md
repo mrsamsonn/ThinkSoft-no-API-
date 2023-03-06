@@ -1,4 +1,4 @@
-# ThinkSoft
+# ThinkSoft (API files hidden)
 ![](https://progress-bar.dev/45/?title=Development_Progress:&width=150)
 ---------------------------------------------------
 
